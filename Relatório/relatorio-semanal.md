@@ -13,9 +13,9 @@ Trabalho inicial de organização do projeto.
 
 ## Riscos
 
-- Falta de alinhamento de alterações paralelas
+- Conflitos de edição em ficheiros partilhados
 
 ## Próximos passos
 
-- Registar decisões
-- Atualizar cronograma
+- Criar ata detalhada
+- Melhorar comunicação interna
