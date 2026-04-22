@@ -13,9 +13,11 @@ Trabalho inicial de organização do projeto.
 
 ## Riscos
 
+- Falta de consistência entre versões de documentação 
 - Conflitos de edição em ficheiros partilhados
 
 ## Próximos passos
 
+- Rever objetivos 
 - Criar ata detalhada
 - Melhorar comunicação interna
