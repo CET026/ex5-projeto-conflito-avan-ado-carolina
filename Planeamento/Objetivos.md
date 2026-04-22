@@ -1,4 +1,5 @@
 # Objetivos do Projeto
+
 Versão: 2.0
 
 ## Objetivo Geral
@@ -13,6 +14,6 @@ Criar um repositório de documentação com rastreabilidade e validação, reduz
 
 ## Critérios de sucesso
 
-- Organização clara
-- Processo	diário	consistente	
-- Entrega	final bem	documentada	
+- Entrega final bem documentada 
+- Revisão antes de integração
+- Registo de decisões e ações
