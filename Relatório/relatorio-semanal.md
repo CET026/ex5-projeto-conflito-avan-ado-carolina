@@ -13,7 +13,7 @@ Trabalho inicial de organização do projeto.
 
 ## Riscos
 
--	Falta de consistência entre	versões	de	documentação	
+-	Falta	de	consistência	entre	versões	de	documentação	
 
 ## Próximos passos
 
