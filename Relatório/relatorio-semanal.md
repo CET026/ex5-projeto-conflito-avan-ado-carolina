@@ -13,9 +13,9 @@ Trabalho inicial de organização do projeto.
 
 ## Riscos
 
-- Falta de alinhamento de alterações paralelas
+-	Falta de consistência entre	versões	de	documentação	
 
 ## Próximos passos
 
-- Registar decisões
-- Atualizar cronograma
+-	Rever	objetivos	
+-	Atualizar	cronograma	e	relatório	
